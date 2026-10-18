@@ -1,0 +1,26 @@
+name: Report a problem
+description: A design does not work or does not look right
+title: "Problem: "
+labels: ["problem"]
+body:
+  - type: input
+    id: design
+    attributes:
+      label: Which design?
+      description: The system and the design, for example Modern, Liquid Glass. The address in your browser works too.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what you saw.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Desktop or Phone view, and which browser?
+      description: For example, Phone view in Chrome on a laptop.
+    validations:
+      required: true

@@ -1,0 +1,19 @@
+name: Suggest a design
+description: A design system, a trend or a screen shape the library is missing
+title: "Idea: "
+labels: ["idea"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Which design system or trend?
+      description: For example, IBM Carbon, Spatial UI, or a kind of screen such as a settings page.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Where have you seen it, and what would you use it for?
+      description: A link to an example helps most.
+    validations:
+      required: false
