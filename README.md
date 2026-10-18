@@ -107,9 +107,9 @@ The design fills the screen. The round button at the top opens the list of syste
 
 | Where | What it is | What to do with it |
 |---|---|---|
-| Top of the panel | The library in three numbers | A quick sense of what is there |
-| Desktop / Phone | The width the design is shown at | Check both before you choose |
-| Expand all / Collapse all | Opens or closes every system card | Scan everything, or keep the panel short |
+| The strip at the top | The library in three numbers, and the design showing now | A quick sense of what is there, and where you are |
+| Desktop / Phone, floating over the design | The width the design is shown at | Check both before you choose |
+| Expand all / Collapse all, floating at the foot of the panel | Opens or closes every system card | Scan everything, or keep the panel short |
 | A system card | A family of designs that share a shape | Open it to see its designs; hover it for what it is for |
 | The stage | The chosen design, filling the window | Scroll it, click it, judge it |
 | The round arrows | The previous and next design | Step through the library without the panel |
