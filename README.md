@@ -2,13 +2,13 @@
 
 # Design library
 
-### Pick the shape of your screen first. Then build it.
+### Working screens to choose from before you build one
 
 **[design.abbasshaheer.com](https://design.abbasshaheer.com)**
 
 12 systems &nbsp;·&nbsp; 67 designs &nbsp;·&nbsp; 134 screens, each one running in a desktop and a phone layout &nbsp;·&nbsp; free to open, nothing to install
 
-[Open it](#open-it) &nbsp;·&nbsp; [Why it exists](#the-same-four-decisions) &nbsp;·&nbsp; [What is inside](#what-is-inside) &nbsp;·&nbsp; [How to use it](#how-to-use-it) &nbsp;·&nbsp; [Modern systems](#the-modern-systems-of-2026) &nbsp;·&nbsp; [Requests](#requests) &nbsp;·&nbsp; [Questions](#questions)
+[Open it](#open-it) &nbsp;·&nbsp; [Why it exists](#the-same-four-decisions) &nbsp;·&nbsp; [What is inside](#what-is-inside) &nbsp;·&nbsp; [How to use it](#how-to-use-it) &nbsp;·&nbsp; [Modern designs](#the-modern-system) &nbsp;·&nbsp; [Requests](#requests) &nbsp;·&nbsp; [Questions](#questions)
 
 <br>
 
@@ -48,7 +48,7 @@ The library holds the skeletons, each one running. You look at the real thing, a
 | System | What it is for | Designs |
 |---|---|---|
 | **Bento** | One project as a bento box, where tile size says what matters most, in six visual styles | Muse, Dark, Airbnb, News, Netflix, Light |
-| **Modern** | The design systems and trends that lead in 2026, each rebuilt as a real screen | Liquid Glass, Material 3, Fluent 2, Airbnb 3D, Cinematic, Bold minimalism, Editorial, Tactile, Claymorphism, Neo-brutalism, Dark spotlight, Retro OS |
+| **Modern** | Widely used design systems and visual trends, each rebuilt as a working screen | Liquid Glass, Material 3, Fluent 2, Airbnb 3D, Cinematic, Bold minimalism, Editorial, Tactile, Claymorphism, Neo-brutalism, Dark spotlight, Retro OS |
 | **Feed** | One item at a time; the reader judges rather than retrieves | Digest, Drop, Pulse, Queue, Reel, Story, Feed |
 | **Browse** | Many items at once, grouped, so the reader compares | Catalog, Deck, Gallery, Listing, Marquee, Mosaic, Peek |
 | **Read** | Long text, and the furniture that gets out of its way | Column, Docs, Page, Rail, Tome |
@@ -116,9 +116,9 @@ One design per screen: swipe up for the next. The systems run along the bottom; 
 
 You can also use the keyboard: the arrow keys step through designs, and every design has its own address you can share.
 
-## The Modern systems of 2026
+## The Modern system
 
-The Modern system rebuilds the design languages that lead today, from company design systems, component libraries and visual trends, each as one working screen with its signature parts.
+The Modern system rebuilds widely used design languages, from company design systems, component libraries and visual trends, each as one working screen with its characteristic parts.
 
 <table>
 <tr>
