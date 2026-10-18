@@ -95,11 +95,11 @@ Nothing is a screenshot. Each design is a page that runs: tabs switch, chips sel
 </td>
 <td width="50%" valign="top">
 
-**On a phone, the panel folds away**
+**On a phone, it is a reel**
 
-The design fills the screen. The round button at the top opens the list of systems.
+One design per screen: swipe up for the next. The systems run along the bottom; **Try it** opens the design full screen.
 
-<img src="docs/images/on-a-phone.jpg" alt="The library on a phone: the Digest design filling the screen">
+<img src="docs/images/on-a-phone.jpg" alt="The library on a phone: the Airbnb 3D design as one reel, with Try it, Desktop, About and Share beside it and the systems along the bottom">
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ No. Each one is an independent rebuild of a public design language, made from th
 <details>
 <summary><b>Does it work on a phone?</b></summary>
 <br>
-Yes. The panel folds into a drawer and the design fills the screen.
+Yes. On a phone the library becomes a reel: one design per screen, swipe up for the next, tap a system at the bottom to jump to it, and Try it to use the design full screen.
 </details>
 
 <details>
