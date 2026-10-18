@@ -30,7 +30,7 @@ Open a system on the left, pick one of its designs, and switch between **Desktop
 
 ## The same four decisions
 
-Every new product screen starts with the same four questions: what shape is it, which parts does it need, how are they arranged, and what happens when someone touches it. Component kits answer none of them. They hand you five hundred parts and leave the shape to you.
+Every new product screen starts with the same four questions: what shape is it, which parts does it need, how are they arranged, and what happens when someone touches it. Component kits answer none of them: they supply the parts and leave the shape to you.
 
 > **A design is a skeleton plus a stated set of trade-offs. Choose the skeleton first and most of the decisions are already made.**
 
